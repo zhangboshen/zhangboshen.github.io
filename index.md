@@ -1,5 +1,5 @@
 ## 张博深（Boshen Zhang）  
-目前就职业腾讯优图实验室（上海），主要工作是计算机视觉技术（包括检测、分割、姿态估计、低成本学习等）在云、工业、审核等场景的落地。2017-2020在华中科技大学人工智能与自动化学院模式识别与智能系统专业的硕士研究期间，主要研究方式是手势以及人体的2D、3D姿态估计。
+目前就职业腾讯优图实验室（上海），主要工作是计算机视觉技术（包括检测、分割、低成本学习等）在腾讯云、安防、工业、审核等场景的研究与落地。2017-2020在华中科技大学硕士研究期间，主要研究方式是手势以及人体的2D、3D姿态估计、行为识别等。
 
 ## 教育（Education）
 2017.9-2020.6：工学硕士 | **华中科技大学** | 人工智能与自动化学院-模式识别与智能系统专业  
@@ -45,5 +45,18 @@
   - Best poster award. https://sites.google.com/view/hands2019/awards
   - Task 1 runner-up, Depth-Based 3D Hand Pose Estimation.
   - Task 2 runner-up, Depth-Based 3D Hand Pose Estimation while Interacting with Objects.
-
+   
+- Kaggle-Humpback Whale Identification Challenge (2019).
+  - Ranking 15/2131. Identify whale IDs by using the shape of whales’ tails and unique markings.
+ 
+ - Kaggle-Human Protein Atlas Image Classification (2018).
+   - Ranking 29/2169. Classify mixed patterns of human proteins in microscope images.
+- Alibaba Cloud German AI Challenge 2018.
+  -  Ranking 17/1329. Classify satellite remote sensing images into 17 local climate zones.
+  
+  
+  
+## 工作经历（Working Experience）
+- 2019.6 - 2019.9：腾讯优图实验室实习生（Youtu Lab, Tencent. Shanghai, China）.
+- 2020.6 - now：腾讯优图实验室（Youtu Lab, Tencent. Shanghai）
 
