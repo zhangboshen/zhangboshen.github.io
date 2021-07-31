@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## 张博深（Boshen Zhang）  
+目前就职业腾讯优图实验室（上海），主要工作是计算机视觉技术（包括检测、分割、姿态估计、低成本学习等）在云、工业、审核等场景的落地。2017-2020在华中科技大学人工智能与自动化学院模式识别与智能系统专业的硕士研究期间，主要研究方式是手势以及人体的2D、3D姿态估计。
 
-You can use the [editor on GitHub](https://github.com/zhangboshen/zhangboshen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 教育（Education）
+2017.9-2020.6：工学硕士 | **华中科技大学** | 人工智能与自动化学院-模式识别与智能系统专业  
+*-M.S. in Huazhong University of Science & Technology, major in Pattern Recognition and Intelligent System.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2013.9-2017.6：工学学士 | **武汉大学** | 动力与机械学院-自动化专业  
+*-B.S. in Wuhan University, major in Control Science and Control Engineering.*
 
-### Markdown
+2010.9-2013.6：高中 | 曲靖市第一中学  
+*-High school, Qujing, Yunnan*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   
+## 研究（Publications）
+- A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [PDF](https://arxiv.org/abs/1908.09999)  
+*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*  
+*Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
-```markdown
-Syntax highlighted code block
+- 3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement.  
+*Applied Soft Computing (ASOC)*  
+***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunln Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
 
-# Header 1
-## Header 2
-### Header 3
+- Survey on depth and RGB image-based 3D hand shape and pose estimation. [PDF](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
+*Virtual Reality & Intelligent Hardware (VRIH)*  
+*Ling Huang<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Zhilin Guo, Yang Xiao, Zhiguo Cao, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
-- Bulleted
-- List
+- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation Under Hand-Object Interaction. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_6)  
+*Proceedings of the European Conference on Computer Vision (**ECCV**), 2020*.  
+*Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, **Boshen Zhang**, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, et.al.*
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- Temporal Hints in 3D Hand Pose Estimation.    
+*2020 Chinese Automation Congress (CAC)*.   
+*Taidong Yu, Zhiguo Cao, Yang Xiao, **Boshen Zhang**, and Zihao Zhu.* 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- LSTC: Boosting Atomic Action Detection with Long-Short-Term Context.    
+*ACM International Conference on Multimedia (ACM MM), 2021*.   
+*Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang，Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangboshen/zhangboshen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 竞赛、获奖（Awards）
+- Best poster award. https://sites.google.com/view/hands2019/awards
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
