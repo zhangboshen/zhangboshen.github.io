@@ -14,15 +14,15 @@
    
 ## 研究（Publications）
 - A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [PDF](https://arxiv.org/abs/1908.09999)  
-*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*  
+*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*.  
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
 - 3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement.  
-*Applied Soft Computing (ASOC)*  
+*Applied Soft Computing (ASOC)*.  
 ***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunln Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
 
 - Survey on depth and RGB image-based 3D hand shape and pose estimation. [PDF](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
-*Virtual Reality & Intelligent Hardware (VRIH)*  
+*Virtual Reality & Intelligent Hardware (VRIH)*.  
 *Ling Huang<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Zhilin Guo, Yang Xiao, Zhiguo Cao, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
 - Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation Under Hand-Object Interaction. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_6)  
@@ -40,7 +40,7 @@
 *Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang，Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
 
 - Uniformity in Heterogeneity: Diving Deep into Count Interval Partition for Crowd Counting. [PDF](https://arxiv.org/abs/2107.12619)  
-*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021*   
+*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021*.   
 *Changan Wang, Qingyu Song, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
 
 ## 竞赛、获奖（Awards）
@@ -57,6 +57,8 @@
 - Alibaba Cloud German AI Challenge 2018.
   -  Ranking 17/1329. Classify satellite remote sensing images into 17 local climate zones.
   
+ - 第九届“恩智浦”杯全国大学生智能车竞赛 (2016).
+   - 摄像头组国家一等奖
   
   
 ## 工作经历（Working Experience）
