@@ -39,6 +39,9 @@
 *ACM International Conference on Multimedia (ACM MM), 2021*.   
 *Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang，Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
 
+- Uniformity in Heterogeneity: Diving Deep into Count Interval Partition for Crowd Counting. [PDF](https://arxiv.org/abs/2107.12619)  
+*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021*   
+*Changan Wang, Qingyu Song, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
 
 ## 竞赛、获奖（Awards）
 - 5th International Workshop on Observing and Understanding Hands in Action (ICCV2019 workshop). 
