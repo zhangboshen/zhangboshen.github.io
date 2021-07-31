@@ -19,7 +19,7 @@
 
 - 3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement.  
 *Applied Soft Computing (ASOC)*.  
-***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunln Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
+***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunlin Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
 
 - Survey on depth and RGB image-based 3D hand shape and pose estimation. [PDF](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
 *Virtual Reality & Intelligent Hardware (VRIH)*.  
