@@ -41,6 +41,9 @@
 
 
 ## 竞赛、获奖（Awards）
-- Best poster award. https://sites.google.com/view/hands2019/awards
+- 5th International Workshop on Observing and Understanding Hands in Action (ICCV2019 workshop). 
+  - Best poster award. https://sites.google.com/view/hands2019/awards
+  - Task 1 runner-up, Depth-Based 3D Hand Pose Estimation.
+  - Task 2 runner-up, Depth-Based 3D Hand Pose Estimation while Interacting with Objects.
 
 
