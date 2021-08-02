@@ -13,7 +13,7 @@
 
    
 ## 研究（Publications）
-- A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [PDF](https://arxiv.org/abs/1908.09999)  
+- A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [PDF](https://arxiv.org/abs/1908.09999), [CODE](https://github.com/zhangboshen/A2J)  
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*.  
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
@@ -44,21 +44,31 @@
 *Changan Wang, Qingyu Song, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
 
 ## 竞赛、获奖（Awards）
-- 5th International Workshop on Observing and Understanding Hands in Action (ICCV2019 workshop). 
+- [HANDS-19 5th International Workshop on Observing and Understanding Hands in Action (ICCV2019 workshop)](https://sites.google.com/view/hands2019/home?authuser=0). 
   - Best poster award. https://sites.google.com/view/hands2019/awards
   - Task 1 runner-up, Depth-Based 3D Hand Pose Estimation.
   - Task 2 runner-up, Depth-Based 3D Hand Pose Estimation while Interacting with Objects.
    
-- Kaggle-Humpback Whale Identification Challenge (2019).
-  - Ranking 15/2131. Identify whale IDs by using the shape of whales’ tails and unique markings.
+- [Kaggle-Humpback Whale Identification Challenge (2019)](https://www.kaggle.com/c/humpback-whale-identification).
+  - Ranking 15/2131. Identify whale IDs by using the shape of whales’ tails and unique markings. [Our solution.](https://www.kaggle.com/c/humpback-whale-identification/discussion/82361)
  
- - Kaggle-Human Protein Atlas Image Classification (2018).
-   - Ranking 29/2169. Classify mixed patterns of human proteins in microscope images.
-- Alibaba Cloud German AI Challenge 2018.
-  -  Ranking 17/1329. Classify satellite remote sensing images into 17 local climate zones.
+ - [Kaggle-Human Protein Atlas Image Classification (2018)](https://www.kaggle.com/c/human-protein-atlas-image-classification).
+   - Ranking 29/2169. Classify mixed patterns of human proteins in microscope images. [Our solution.](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77299).
+- [Alibaba Cloud German AI Challenge 2018](https://tianchi.aliyun.com/competition/entrance/231683/rankingList).
+  -  Ranking 17/1329. Classify satellite remote sensing images into 17 local climate zones. [CODE.](https://github.com/zhangboshen/Alibaba-Cloud-German-AI-Challenge-2018-Rank-17th-Solution)
+
+- [Biendata竞赛—智源杯天文数据算法挑战赛（2020）](https://www.biendata.xyz/competition/astrodata2019/final-leaderboard/)。
+  - 最终排名1/477。根据天文望远镜采集的2600 维特征进行行星、星系、类星体的分类。[最终方案](https://www.biendata.xyz/models/detail/5455/)，[代码](https://github.com/longxiaomi/biendata_astrodata19_1_st_solution)。
   
- - 第九届“恩智浦”杯全国大学生智能车竞赛 (2016).
-   - 摄像头组国家一等奖
+- [Biendata竞赛—虚假新闻检测—虚假图片检测（2019）](https://www.biendata.xyz/competition/falsenews_2/final-leaderboard/)。
+  - 最终排名3/162。判断输入图像是否是虚假新闻图片（PS 痕迹检测）。[方案、代码](https://www.biendata.xyz/models/category/3373/)
+ 
+- [Datafountain竞赛—阿尔茨海默症的识别（2020）](https://www.datafountain.cn/competitions/369/ranking?isRedance=0&sch=1485)。
+  - 最终排名1/2573。给定人的头部3D MRI 医学扫描图像，将该样本进行AD、MCI 以及健康三种类别的分类。
+
+
+- 第九届“恩智浦”杯全国大学生智能车竞赛 (2016).
+  - [摄像头组国家一等奖](http://pmc.whu.edu.cn/info/1088/3737.htm)。
   
   
 ## 工作经历（Working Experience）
