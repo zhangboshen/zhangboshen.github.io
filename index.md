@@ -12,7 +12,7 @@
 *-High school, Qujing, Yunnan*
 
    
-## 研究（Publications）
+## 研究（[Publications](https://scholar.google.com/citations?user=GOnKOMcAAAAJ&hl=en)）
 - A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [PDF](https://arxiv.org/abs/1908.09999), [CODE](https://github.com/zhangboshen/A2J)  
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*.  
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
@@ -30,7 +30,7 @@
 *Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, **Boshen Zhang**, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, et.al.*
 
 
-- Temporal Hints in 3D Hand Pose Estimation.    
+- Temporal Hints in 3D Hand Pose Estimation. [PDF](https://ieeexplore.ieee.org/abstract/document/9327204/)    
 *2020 Chinese Automation Congress (CAC)*.   
 *Taidong Yu, Zhiguo Cao, Yang Xiao, **Boshen Zhang**, and Zihao Zhu.* 
 
