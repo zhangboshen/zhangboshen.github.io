@@ -13,7 +13,7 @@
 
    
 ## 研究（[Publications](https://scholar.google.com/citations?user=GOnKOMcAAAAJ&hl=en)）
-- A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [PDF](https://arxiv.org/abs/1908.09999), [CODE](https://github.com/zhangboshen/A2J)  
+- A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.  [[PDF]](https://arxiv.org/abs/1908.09999), [[CODE]](https://github.com/zhangboshen/A2J)  
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*.  
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
@@ -21,25 +21,25 @@
 *Applied Soft Computing (ASOC)*.  
 ***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunlin Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
 
-- Survey on depth and RGB image-based 3D hand shape and pose estimation. [PDF](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
-*Virtual Reality & Intelligent Hardware (VRIH)*.  
+- Survey on depth and RGB image-based 3D hand shape and pose estimation. [[PDF]](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
+*Virtual Reality & Intelligent Hardware (VRIH), 2021*.  
 *Ling Huang<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Zhilin Guo, Yang Xiao, Zhiguo Cao, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
-- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation Under Hand-Object Interaction. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_6)  
+- Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation Under Hand-Object Interaction. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_6)  
 *Proceedings of the European Conference on Computer Vision (**ECCV**), 2020*.  
 *Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, **Boshen Zhang**, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, et.al.*
 
 
-- Temporal Hints in 3D Hand Pose Estimation. [PDF](https://ieeexplore.ieee.org/abstract/document/9327204/)    
+- Temporal Hints in 3D Hand Pose Estimation. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9327204/)    
 *2020 Chinese Automation Congress (CAC)*.   
 *Taidong Yu, Zhiguo Cao, Yang Xiao, **Boshen Zhang**, and Zihao Zhu.* 
 
 
-- LSTC: Boosting Atomic Action Detection with Long-Short-Term Context.    
-*ACM International Conference on Multimedia (ACM MM), 2021*.   
+- LSTC: Boosting Atomic Action Detection with Long-Short-Term Context. [[PDF](https://dl.acm.org/doi/abs/10.1145/3474085.3475374)]  
+*ACM International Conference on Multimedia (**ACM MM**), 2021*.   
 *Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang，Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
 
-- Uniformity in Heterogeneity: Diving Deep into Count Interval Partition for Crowd Counting. [PDF](https://arxiv.org/abs/2107.12619)  
+- Uniformity in Heterogeneity: Diving Deep into Count Interval Partition for Crowd Counting. [[PDF]](https://arxiv.org/abs/2107.12619)  
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021*.   
 *Changan Wang, Qingyu Song, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
 
