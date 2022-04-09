@@ -23,7 +23,7 @@
 
 - Survey on depth and RGB image-based 3D hand shape and pose estimation. [[PDF]](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
 *Virtual Reality & Intelligent Hardware (VRIH), 2021*.  
-*Ling Huang<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Zhilin Guo, Yang Xiao, Zhiguo Cao, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
+*Ling Huang<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Zhilin Guo<sup>\*</sup>, Yang Xiao, Zhiguo Cao, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
 - Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation Under Hand-Object Interaction. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_6)  
 *Proceedings of the European Conference on Computer Vision (**ECCV**), 2020*.  
@@ -41,7 +41,7 @@
 
 - Uniformity in Heterogeneity: Diving Deep into Count Interval Partition for Crowd Counting. [[PDF]](https://arxiv.org/abs/2107.12619)  
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021*.   
-*Changan Wang, Qingyu Song, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
+*Changan Wang<sup>\*</sup>, Qingyu Song<sup>\*</sup>, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
 
 ## 竞赛、获奖（Awards）
 - [HANDS-19 5th International Workshop on Observing and Understanding Hands in Action (ICCV2019 workshop)](https://sites.google.com/view/hands2019/home?authuser=0). 
