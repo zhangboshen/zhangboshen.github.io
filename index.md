@@ -70,8 +70,10 @@
 - 第九届“恩智浦”杯全国大学生智能车竞赛 (2016)
   - [摄像头组国家一等奖](http://pmc.whu.edu.cn/info/1088/3737.htm)。
   
+- 武汉大学雷军奖学金（2015-2016）
+  - 全院唯一一位该[奖学金](http://edf.whu.edu.cn/xwdt/zhxw/2017-10-20/576.html)获得者。 
   
-## 工作经历（Working Experience）
+## 工作经历（Work Experience）
 - 2019.6 - 2019.9：腾讯优图实验室实习生（Youtu Lab, Tencent. Shanghai, China）.
-- 2020.6 - now：腾讯优图实验室（Youtu Lab, Tencent. Shanghai）
+- 2020.6 - now：腾讯优图实验室（Youtu Lab, Tencent. Shanghai, China）
 
