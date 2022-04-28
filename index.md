@@ -18,7 +18,7 @@
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
 - 3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement.  
-*Applied Soft Computing (ASOC)*.  
+*Applied Soft Computing (ASOC), 2022*.  
 ***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunlin Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
 
 - Survey on depth and RGB image-based 3D hand shape and pose estimation. [[PDF]](http://www.vr-ih.com/vrih/html/EN/10.1016/j.vrih.2021.05.002)  
