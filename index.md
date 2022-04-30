@@ -17,7 +17,7 @@
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*.  
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
-- 3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement.  
+- 3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1568494622002940)  
 *Applied Soft Computing (ASOC), 2022*.  
 ***Boshen Zhang,** Yang Xiao, Fu Xiong, Cunlin Wu, Zhiguo Cao, Ping Liu, Joey Tianyi Zhou.*   
 
@@ -41,7 +41,7 @@
 
 - Uniformity in Heterogeneity: Diving Deep into Count Interval Partition for Crowd Counting. [[PDF]](https://arxiv.org/abs/2107.12619)  
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2021*.   
-*Changan Wang<sup>\*</sup>, Qingyu Song<sup>\*</sup>, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu*
+*Changan Wang<sup>\*</sup>, Qingyu Song<sup>\*</sup>, **Boshen Zhang**, Yabiao Wang, Ying Tai, Xuyi Hu, Chengjie Wang, Jilin Li, Jiayi Ma, Yang Wu.*
 
 ## 竞赛、获奖（Awards）
 - [HANDS-19 5th International Workshop on Observing and Understanding Hands in Action (ICCV2019 workshop)](https://sites.google.com/view/hands2019/home?authuser=0). 
