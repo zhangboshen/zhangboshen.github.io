@@ -31,12 +31,12 @@
 
 - [LSTC: Boosting Atomic Action Detection with Long-Short-Term Context.](https://dl.acm.org/doi/abs/10.1145/3474085.3475374)  
 *ACM International Conference on Multimedia (**ACM MM**), 2021*. [[CODE]](https://github.com/TencentYoutuResearch/ActionDetection-LSTC)  
-*Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang，Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
+*Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang, Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
 
   
 
 - [Robust Learning with Adaptive Sample Credibility Modeling.](https://openreview.net/pdf?id=A9PXKSUYrJe)  
-*arxiv, 2022*.   
+*arXiv, 2022*.   
 ***Boshen Zhang<sup>\*</sup>,** Yuxi Li<sup>\*</sup>, Yuanpeng Tu<sup>\*</sup>, Yabiao Wang, Yang Xiao, Cai Rong Zhao, Chengjie Wang.*  (<sup>\*</sup>Co-first Authors) 
 
 
@@ -47,7 +47,7 @@
   
 
 - [FRIH: Fine-grained Region-aware Image Harmonization. ](https://arxiv.org/abs/2205.06448)  
-*arxiv, 2022*.   
+*arXiv, 2022*.   
 *Jinlong Peng, Zekun Luo, Liang Liu, **Boshen Zhang**, Tao Wang, Yabiao Wang, Ying Tai, Chengjie Wang, Weiyao Lin.*
 
   
