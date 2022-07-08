@@ -18,7 +18,7 @@
    
 ## 研究（[Publications](https://scholar.google.com/citations?user=GOnKOMcAAAAJ&hl=en)）  
 - [A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image.](https://arxiv.org/abs/1908.09999)   
-*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*. [[CODE]](https://github.com/zhangboshen/A2J)   
+*Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019*. [[-**CODE**-]](https://github.com/zhangboshen/A2J)   
 *Fu Xiong<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
 - [3D Human Pose Estimation with Cross-modality Training and Multi-scale Local Refinement.](https://www.sciencedirect.com/science/article/abs/pii/S1568494622002940)  
@@ -30,10 +30,15 @@
 *Ling Huang<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Zhilin Guo<sup>\*</sup>, Yang Xiao, Zhiguo Cao, Junsong Yuan*. (<sup>\*</sup>Co-first Authors)
 
 - [LSTC: Boosting Atomic Action Detection with Long-Short-Term Context.](https://dl.acm.org/doi/abs/10.1145/3474085.3475374)  
-*ACM International Conference on Multimedia (**ACM MM**), 2021*. [[CODE]](https://github.com/TencentYoutuResearch/ActionDetection-LSTC)  
+*ACM International Conference on Multimedia (**ACM MM**), 2021*. [[-**CODE**-]](https://github.com/TencentYoutuResearch/ActionDetection-LSTC)  
 *Yuxi Li<sup>\*</sup>,**Boshen Zhang<sup>\*</sup>,** Jian Li, Yabiao Wang, Weiyao Lin, Chengjie Wang, Jilin Li, Feiyue Huang.*  (<sup>\*</sup>Co-first Authors) 
 
   
+- [C3P: Cross-domain Pose Prior Propagation for Weakly Supervised 3D Human Pose Estimation.]()  
+*Proceedings of the European Conference on Computer Vision (**ECCV**), 2022*.  
+*Cunlin Wu, Yang Xiao, **Boshen Zhang**, Mingyang Zhang, Zhiguo Cao, Joey Tianyi Zhou.*
+
+
 
 - [Robust Learning with Adaptive Sample Credibility Modeling.](https://openreview.net/pdf?id=A9PXKSUYrJe)  
 *arXiv, 2022*.   
